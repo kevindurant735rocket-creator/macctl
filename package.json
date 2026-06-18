@@ -1,0 +1,9 @@
+{
+  "name": "macctl",
+  "version": "0.1.0",
+  "description": "macOS AI agent toolkit — automation + token-efficient batching",
+  "type": "module",
+  "bin": {
+    "macctl": "./bin/macctl.js"
+  }
+}
